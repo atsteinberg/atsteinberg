@@ -1,16 +1,15 @@
-### Hi there 👋
+<img src="./banner2.png" />
 
-<!--
-**atsteinberg/atsteinberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Alex Steinberg @FullStackSmart
 
-Here are some ideas to get you started:
+Hi, I'm Alex. I'm a Full Stack Software Engineer living in Graz, Austria.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work in the JavaScript/TypeScript ecosystem. Expert in vanilla JS, Node, Express, Koa, MongoDB, SQL, WebSockets, React, React Native. Nodding acquaintance with Java and Swift.
+
+I am dedicated to creating well structured, reusable, and scalable code.
+
+When I'm not coding, I enjoy all kinds of sports including road biking, running, kite surfing and cross-country skiing. I'm a dog person. But I have two cats.
+
+#### Connect
+
+[linkedin](https://linkedin.com/in/atsteinberg) – [portfolio](https://atsteinberg.github.io) – [email](mailto:atsteinberg.dev@gmail.com)
